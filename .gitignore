@@ -1,0 +1,6 @@
+src/Arango/.vs/*
+src/Arango/Arango.Client/bin/*
+src/Arango/Arango.Client/obj/*
+src/Arango/Arango.Tests/bin/*
+src/Arango/Arango.Tests/obj/*
+src/Arango/Arango.Client/Arango.Client.csproj.user
